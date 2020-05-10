@@ -1,6 +1,4 @@
-# ⛔️ DEPRECATED
-
-<em>**This repo is deprecated and not mainted any more. Use [Framework7-CLI](https://framework7.io/cli/) instead. Please, don't open new issues and don't send any PRs to this repository**</em>
+<em>**I have updated this repo to the latest package versions in order to add to an existing project, without the changes and understanding required to use framework7-cli.**</em>
 
 # Framework7 Webpack App Template
 

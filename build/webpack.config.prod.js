@@ -110,9 +110,7 @@ module.exports = {
     }),
     new UglifyJsPlugin({
       uglifyOptions: {
-        compress: {
-          warnings: false
-        }
+        warnings: false
       },
       sourceMap: true,
       parallel: true
